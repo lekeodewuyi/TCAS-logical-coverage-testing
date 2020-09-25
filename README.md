@@ -15,5 +15,5 @@ To run the program on a local or cloud-based machine:
     Test 2:  ./tcas 700 1 0 2 0 1 1 16435 17000 0 2 0
     Test 3: ./tcas 10 1 2 1 601 2 1 2 2 2 0 0
 
-Full documenttation is available at [https://rb.gy/enihqh](Google Document)
+Full documenttation is available at [Google Document](https://docs.google.com/document/d/1O623tHkZjLpcOOhK0bUFGjoZYaDJnR-4BVIkos_hLK8/edit?usp=sharing)
  
