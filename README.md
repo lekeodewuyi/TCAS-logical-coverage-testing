@@ -2,7 +2,7 @@
 
 This is a C language test suite for achieving clause and predicate coverage for TCAS. After generating a set of test requirements.
 
-Clone this repository to your local machine or run using an online IDE (e.g. [repl.it](repl.it)).
+Clone this repository to your local machine or run using an online IDE (e.g. [repl.it](https://repl.it)).
 
 To run the program on a local or cloud-based machine:
 
