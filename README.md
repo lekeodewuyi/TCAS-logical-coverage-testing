@@ -14,7 +14,4 @@ To run the program on a local or cloud-based machine:
     Test 3: ./tcas 10 1 2 1 601 2 1 2 2 2 0 0
 
 You can learn more about it [here](https://docs.google.com/document/d/1O623tHkZjLpcOOhK0bUFGjoZYaDJnR-4BVIkos_hLK8/edit?usp=sharing)
-
-
-Project was a collaboration with Christine Celona and Lakshmi Palaparthi.
  
